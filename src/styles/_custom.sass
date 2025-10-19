@@ -57,6 +57,10 @@ figcaption
     background-color: #FFE69B
   &-3
     background-color: #D5D1E2
+  &-4
+    background-color: #EBF5FD !important
+  &-5
+    color: $color-sistema-texto
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -89,8 +93,96 @@ figcaption
     background-image: url("../assets/curso/bg1.svg") !important
     background-position: top
   &-2
-    // background-image: url("../assets/bg/bg2.png") !important
+    background-image: url("../assets/curso/bg2.svg") !important
+    background-position: bottom
+  &-3
+    background-image: url("../assets/curso/bg3.svg") !important
+    background-position: bottom
+  &-4
+    background-image: url("../assets/curso/bg3.svg") !important
+    background-position: bottom
+  &-5
+    background-image: url("../assets/curso/bg5.svg") !important
+    background-position: bottom
+    background-repeat: no-repeat
+    background-size: cover
+  &-6
+    background-image: url("../assets/curso/bg6.svg") !important
     background-position: bottom
   //&-slider
     background-image: url("../assets/bg/bg-slider.png") !important
     background-position: bottom
+
+
+/////////IMG_100%_CAJON_MEDIO/////////
+.pst
+  position: relative
+  z-index: 2
+.banner-text
+  background-color: #EBF5FD
+  border-radius: 10px
+  padding: 20px 30px
+  margin-top: -60px
+
+//////////////CUSTON SLYDER-A////////
+.slyder-a__bullets__item 
+  background-color: #BCC5CC
+  border: #BCC5CC
+.slyder-a__bullets__item--active
+  background-color: #1F3F5F
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-color: #1F3F5F
+
+//////////CUSTOM BOTONES SLYDER-F/////////
+.slyder-f__btn
+  height: 35px
+  width: 35px
+  max-width: 35px
+  background-color: $color-acento-botones
+  border-radius: 50%
+  padding: 0 !important
+  margin: 0 auto
+  .fa-chevron-left
+    font-size: 20px
+    color: white
+  .fa-chevron-right
+    font-size: 20px
+    color: white
+  
+.slyder-f
+    align-items: center
+
+    .slyder-f__main
+      width: 70%
+
+      @media (min-width: 769px)
+        width: 80%
+
+//////////////CUSTOM TABS-A/////////////
+.tabs-a.color-acento-botones .tabs-a__tab__selected 
+  background-color: #A82250
+  color: #fff
+.tabs-a__tab
+  background-color: #E0E5E9
+.tarjeta.color-acento-botones--borde
+  background-color: #E0E5E9
+  border: solid 4px #E0E5E9
+
+////////////AJUSTE TAMAÑO CONTERNEDOR IZQUIERO TABS-A//////////
+.tabs-a
+  @media (min-width: 1200px) 
+    .row
+      .col-xl-3 
+        flex: 0 0 auto
+        width: 38%
+      .col-xl-9
+        flex: 0 0 auto
+        width: 62%
+  @media (min-width: 992px) 
+    .row
+      .col-lg-4 
+        flex: 0 0 auto
+        width: 40%
+      .col-lg-8 
+        flex: 0 0 auto
+        width: 60%
