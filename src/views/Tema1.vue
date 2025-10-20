@@ -85,7 +85,7 @@
     separador
     
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.3.	Características 
+      h2 1.3	Características 
 
     p.mb-5 Las características de los procesos operativos del transporte permiten identificar los factores que aseguran eficiencia, seguridad y sostenibilidad en la cadena logística. Cada una integra prácticas técnicas, tecnológicas y de gestión que hacen posible cumplir con los objetivos de costo, tiempo, calidad y responsabilidad social.
 
@@ -126,7 +126,7 @@
     separador
     
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.4.	Etapas 
+      h2 1.4	Etapas 
     
     p.mb-5 El proceso operativo en logística de transporte se desarrolla a través de cuatro etapas interdependientes que aseguran eficiencia, trazabilidad y cumplimiento del servicio: planificación, ejecución, monitoreo y cierre. Cada una de ellas aporta actividades y herramientas específicas que, al integrarse, fortalecen la calidad y sostenibilidad de la operación:
 
@@ -152,7 +152,7 @@
     separador
     
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.5.	Diagramas de flujo 
+      h2 1.5	Diagramas de flujo 
     
     .row.mb-5
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
@@ -170,43 +170,43 @@
         .bg-fondo-6
           .p-4.p-md-5
             SlyderA(tipo="b").bg-white.tarjeta.p-4
-              .row.align-items-center
-                .col-lg-2.mb-3.mb-lg-0
+              .row.align-items-center.justify-content-center
+                .col-6.col-md-4.col-lg-2.mb-3.mb-lg-0
                   figure
                     img(src="@/assets/curso/tema1/19.svg")
                 .col-lg-10
                   h5 Diagrama  de flujo clásico
                   p.mb-0 Representa paso a paso un proceso con símbolos estandarizados (inicio, actividad, decisión y fin). Útil para describir procesos como recepción de pedidos, despacho de mercancías, control de flotas e incidencias. 
-              .row.align-items-center
-                .col-lg-2.mb-3.mb-lg-0
+              .row.align-items-center.justify-content-center
+                .col-6.col-md-4.col-lg-2.mb-3.mb-lg-0
                   figure
                     img(src="@/assets/curso/tema1/19.svg")
                 .col-lg-10
                   h5 Mapa de procesos (Macroproceso)
                   p.mb-0 Muestra de manera global los procesos estratégicos, clave y de apoyo en una empresa de transporte (planificación logística, transporte físico, mantenimiento vehicular, entre otros). Permite visualizar cómo se integran y aportan al objetivo general.
-              .row.align-items-center
-                .col-lg-2.mb-3.mb-lg-0
+              .row.align-items-center.justify-content-center
+                .col-6.col-md-4.col-lg-2.mb-3.mb-lg-0
                   figure
                     img(src="@/assets/curso/tema1/19.svg")
                 .col-lg-10
                   h5 Diagrama SIPOC
                   p.mb-0 Resume un proceso en sus cinco elementos: proveedores, entradas, proceso, salidas y clientes. Es muy útil en diagnósticos iniciales para entender el alcance del transporte y la relación con los actores.
-              .row.align-items-center
-                .col-lg-2.mb-3.mb-lg-0
+              .row.align-items-center.justify-content-center
+                .col-6.col-md-4.col-lg-2.mb-3.mb-lg-0
                   figure
                     img(src="@/assets/curso/tema1/19.svg")
                 .col-lg-10
                   h5 <em>Value Stream Mapping</em> (VSM)
                   p.mb-0 Representa el flujo de materiales e información, mostrando tiempos, inventarios y desperdicios. Se usa en logística Lean para identificar ineficiencias y mejorar la cadena de valor del transporte.
-              .row.align-items-center
-                .col-lg-2.mb-3.mb-lg-0
+              .row.align-items-center.justify-content-center
+                .col-6.col-md-4.col-lg-2.mb-3.mb-lg-0
                   figure
                     img(src="@/assets/curso/tema1/19.svg")
                 .col-lg-10
                   h5 Diagrama de recorrido 
                   p.mb-0 Expone gráficamente el movimiento de recursos y materiales dentro de un espacio (bodega, terminal, patio logístico, entre otros). Facilita identificar recorridos largos, cruces innecesarios o riesgos operativos.
-              .row.align-items-center
-                .col-lg-2.mb-3.mb-lg-0
+              .row.align-items-center.justify-content-center
+                .col-6.col-md-4.col-lg-2.mb-3.mb-lg-0
                   figure
                     img(src="@/assets/curso/tema1/19.svg")
                 .col-lg-10

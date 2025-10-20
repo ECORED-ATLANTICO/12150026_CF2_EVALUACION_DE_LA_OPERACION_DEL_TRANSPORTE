@@ -60,7 +60,19 @@ figcaption
   &-4
     background-color: #EBF5FD !important
   &-5
-    color: $color-sistema-texto
+    background-color: #DBDEE1
+  &-6
+    background-color: #B3DBF9
+  &-7
+    background-color: #D9ECFC
+  &-8
+    color: #215278 !important
+  &-9
+    background-color: #E5EBFB
+  &-10
+    color: #9FABB9 !important
+  &-11
+    background-color: #EDEEF0 !important
   &-white
     background-color: white !important
     border: 1px solid $lightest-gray
@@ -109,6 +121,8 @@ figcaption
   &-6
     background-image: url("../assets/curso/bg6.svg") !important
     background-position: bottom
+    background-repeat: no-repeat
+    background-size: cover
   //&-slider
     background-image: url("../assets/bg/bg-slider.png") !important
     background-position: bottom
@@ -123,6 +137,8 @@ figcaption
   border-radius: 10px
   padding: 20px 30px
   margin-top: -60px
+  @media screen and (max-width: $bp-max-sm)
+    margin-top: -10px
 
 //////////////CUSTON SLYDER-A////////
 .slyder-a__bullets__item 
@@ -186,3 +202,44 @@ figcaption
       .col-lg-8 
         flex: 0 0 auto
         width: 60%
+
+/////////CUSTOM TABS-B///////////////
+.tabs-b__content-item, .tabs-b__tab.tabs-b__tab--active
+  background-color: #EBF5FD
+.tabs-b__tab
+  background-color: #EDEEF0
+
+//////////COLOR_TEXTO_BOTON_REGRESAR///////////
+.barra-avance__boton--regresar span
+  color: white !important
+
+.img-infografica__card
+  width: 460px
+.img-infografica__item
+  width: 4.5%
+
+/////////////ACORDION/////////////
+.acordion__accion__btn--a
+  background-color: #1F3F5F !important
+  color: white
+.acordion__activo
+  background-color: #FEFAE4 !important
+.acordion_titulo
+  color: #fff !important
+.acordion__titulo 
+  h3
+    color: $color-sistema-texto  !important
+.acordion__activo
+  .acordion__titulo 
+    h3
+      color: $color-sistema-texto !important
+
+////////SOMBRA CAJON//////////
+.shadow-app
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  padding: 20px;
+  border-radius: 8px; /* Opcional, para bordes redondeados */
+
+.slyder-a__bullets__item
+  margin: 0 5px

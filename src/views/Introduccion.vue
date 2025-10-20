@@ -13,8 +13,8 @@
         figure
           img(src="@/assets/curso/intro/1.png", data-aos="zoom-in")
       .col-lg-8
-        .row
-          .col-lg-2.order-lg-2.mb-3.mb-lg-0
+        .row.justify-content-center
+          .col-md-4.col-lg-2.order-lg-2.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/intro/2.svg", data-aos="zoom-in")
           .col-lg-10.order-lg-1
@@ -24,7 +24,7 @@
           p.mb-0 Este componente también enfatiza la elaboración de informes técnicos y en la aplicación de indicadores de desempeño, con un enfoque en la sistematización y control de actividades logísticas. Además, promueve la interpretación crítica de resultados y la implementación de soluciones basadas en estándares de calidad. Así, se contribuye a la formación de profesionales capaces de optimizar la operación de transporte, garantizando eficacia, cumplimiento normativo y proyección estratégica en entornos laborales complejos.
     
     figure.mb-5
-      .video
+      .video.mb-2
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
 
