@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/12150026_CF2_EVALUACION_DE_LA_OPERACION_DEL_TRANSPORT](https://ecored-atlantico.github.io/12150026_CF2_EVALUACION_DE_LA_OPERACION_DEL_TRANSPORT)
+[https://ecored-atlantico.github.io/12150026_CF2_EVALUACION_DE_LA_OPERACION_DEL_TRANSPORTE/](https://ecored-atlantico.github.io/12150026_CF2_EVALUACION_DE_LA_OPERACION_DEL_TRANSPORTE/)
 
 #
 
