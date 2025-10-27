@@ -76,7 +76,7 @@
             p Contextualiza el propósito y alcance del informe. Incluye página de título, tabla de contenido, resumen ejecutivo con objetivos y hallazgos clave, además de una introducción general que explica la justificación y el contexto del estudio.
           .tarjeta.bg-fondo-5.px-4.py-5(titulo="Desarrollo")
             h4 2. Desarrollo
-            p.mb-0 Presenta el cuerpo del informe. Contiene antecedentes del problema, objetivos específicos, alcance del estudio y la metodología utilizada, detallando herramientas, fuentes de información, técnicas de muestreo y software que validan la confiabilidad del diagnóstico.
+            p.mb-0 Presenta el cuerpo del informe. Contiene antecedentes del problema, objetivos específicos, alcance del estudio y la metodología utilizada, detallando herramientas, fuentes de información, técnicas de muestreo y <em>software</em> que validan la confiabilidad del diagnóstico.
           .tarjeta.bg-fondo-5.px-4.py-5(titulo="Resultados y análisis")
             h4 3. Resultados y análisis
             p.mb-0 Expone datos obtenidos y su interpretación. Incluye hallazgos organizados, análisis de resultados con métodos cualitativos o cuantitativos y una discusión sobre el significado de los datos, implicaciones operativas y comparación con estándares del sector.
@@ -122,7 +122,7 @@
                     img(src="@/assets/curso/tema6/15.png")
                 .col-lg-7.order-1.mb-3.mb-lg-0
                   h5 Gráficos circulares
-                  p.mb-0 Visualizan procesos, pasos y responsables, detectando ineficiencias.
+                  p.mb-0 Representan proporciones, como costos por tipo o incidencias por causa.
               .row.align-items-center
                 .col-lg-5.order-2
                   figure
@@ -148,6 +148,9 @@
     .bg-color-4.mb-5.tarjeta
       .px-4.px-md-5.py-4.text-center
         p.mb-0 La presentación de resultados en los informes técnicos de transporte constituye la fase final donde los datos se transforman en información clara y accionable. A través de gráficos, tablas, mapas e indicadores, se facilita la comprensión de hallazgos y se orienta la toma de decisiones hacia la mejora continua y la eficiencia operativa.
+    
+    
+
 </template>
 
 <script>

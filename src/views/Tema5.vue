@@ -80,7 +80,7 @@
               img(src='@/assets/curso/tema5/5.svg', alt='Texto que describa la imagen')
           
         h2.text-center 3. Interpretación de datos
-        p Se identifican causas raíz de los problemas, se generan hallazgos clave (insights) y se cuantifica el impacto de las ineficiencias, convirtiendo los datos en evidencia para la toma de decisiones.
+        p Se identifican causas raíz de los problemas, se generan hallazgos clave (<em>insights</em>) y se cuantifica el impacto de las ineficiencias, convirtiendo los datos en evidencia para la toma de decisiones.
     
     separador
     

@@ -90,14 +90,14 @@
             img(src="@/assets/curso/tema2/9.png", data-aos="zoom-in")
           div.text-center.p-5
             h4 Resumen  ejecutivo
-            p.text-bold.mb-0 Presenta los objetivos principales y un análisis de la situación actual del transporte. Define metas claras y medibles que orientan la operación, sirviendo como guía estratégica para la toma de decisiones y la mejora continua
+            p.mb-0 Presenta los objetivos principales y un análisis de la situación actual del transporte. Define metas claras y medibles que orientan la operación, sirviendo como guía estratégica para la toma de decisiones y la mejora continua
       .col-lg-6
         div.bg-color-6.tarjeta.h-100
           figure
             img(src="@/assets/curso/tema2/10.png", data-aos="zoom-in")
           div.text-center.p-5
             h4 Estrategias operativas
-            p.text-bold.mb-0 Detalla cómo se ejecutará el plan: gestión de flota, rutas y personal, incorporación de tecnología, planes de contingencia, asignación de recursos y control con indicadores de desempeño para asegurar eficiencia, seguridad y cumplimiento de objetivos.
+            p.mb-0 Detalla cómo se ejecutará el plan: gestión de flota, rutas y personal, incorporación de tecnología, planes de contingencia, asignación de recursos y control con indicadores de desempeño para asegurar eficiencia, seguridad y cumplimiento de objetivos.
     
     separador
     

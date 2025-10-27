@@ -87,8 +87,8 @@
           h5 Figura 1.
           span Propósitos de la normatividad en transporte. 
         figure.mb-2
-          img.d-none.d-lg-flex(src="@/assets/curso/tema3/9.svg", alt=": La figura presenta una tabla con los principales propósitos de las normas de transporte: eficiencia y calidad, seguridad vial, cumplimiento legal, responsabilidades y derechos, protección ambiental y homologación de prácticas.", data-aos="zoom-in")
-          img.d-flex.d-lg-none(src="@/assets/curso/tema3/10.svg", alt=": La figura presenta una tabla con los principales propósitos de las normas de transporte: eficiencia y calidad, seguridad vial, cumplimiento legal, responsabilidades y derechos, protección ambiental y homologación de prácticas.", data-aos="zoom-in")
+          img.d-none.d-lg-flex(src="@/assets/curso/tema3/9.svg", alt="En la figura 1 se ilustran los propósitos de la normatividad en transporte, a saber:  Eficiencia y calidad - Estándares de servicio. - Tiempos de entrega.  Seguridad vial y operativa - Minimizar riesgos. - Integridad de la carga. Cumplimiento legal - Marco Jurídico. -Transparencia. Responsabilidades y derechos - Transportistas. - Autoridades. Protección ambiental - Regular emisiones. - Gestionar residuos. Homologación de prácticas - Operaciones transfronterizas. -  Interoperabilidad. ", data-aos="zoom-in")
+          img.d-flex.d-lg-none(src="@/assets/curso/tema3/10.svg", alt="En la figura 1 se ilustran los propósitos de la normatividad en transporte, a saber:  Eficiencia y calidad - Estándares de servicio. - Tiempos de entrega.  Seguridad vial y operativa - Minimizar riesgos. - Integridad de la carga. Cumplimiento legal - Marco Jurídico. -Transparencia. Responsabilidades y derechos - Transportistas. - Autoridades. Protección ambiental - Regular emisiones. - Gestionar residuos. Homologación de prácticas - Operaciones transfronterizas. -  Interoperabilidad.", data-aos="zoom-in")
         figcaption <b>Fuente</b>: SENA, 2025.
 
     separador

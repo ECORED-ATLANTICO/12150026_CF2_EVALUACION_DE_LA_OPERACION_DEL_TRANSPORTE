@@ -212,7 +212,7 @@
                 p.mb-0 Implementar protocolos de cargue, despacho y trazabilidad.
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-8
-                p.mb-0 Usar checklists operativos.
+                p.mb-0 Usar <em>checklists</em> operativos.
               li.mb-0.d-flex
                 i.fas.fa-circle-check.bg-color-8
                 p.mb-0 Estandarizar embalajes y unitarización.
@@ -290,7 +290,7 @@
         .p-4(data-aos="fade-left")
           p El ciclo PHVA es fundamental en el transporte, ya que permite planear, ejecutar, verificar y actuar sobre los procesos operativos, asegurando que las rutas, flotas y cargas se gestionen de manera eficiente y confiable. Su importancia radica en que ayuda a identificar fallos logísticos, estandarizar procedimientos, reducir tiempos, errores y costos operativos, y garantizar el cumplimiento de normativas y estándares de calidad, como la ISO 9001. Su aplicación práctica se evidencia en la optimización de rutas, el control de calidad en cargue y descargue, la seguridad vial y la mejora de indicadores como OTIF, contribuyendo directamente a la satisfacción del cliente y a la eficiencia de la operación.
           .cajon.color-secundario.p-4.bg-color-4
-            p.mb-0(data-aos="fade-left") Además del ciclo PHVA, existen otras metodologías que complementan la mejora continua en el transporte, enfocándose en eliminar desperdicios, optimizar recursos y fomentar la participación de todo el equipo, como Lean Logistics y Kaizen, que permiten fortalecer la eficiencia operativa y la sostenibilidad del servicio.
+            p.mb-0(data-aos="fade-left") Además del ciclo PHVA, existen otras metodologías que complementan la mejora continua en el transporte, enfocándose en eliminar desperdicios, optimizar recursos y fomentar la participación de todo el equipo, como <em>Lean</em> <em>Logistics</em> y <em>Kaizen</em>, que permiten fortalecer la eficiencia operativa y la sostenibilidad del servicio.
     
     .bg-full-width.bg-fondo-2
       .p-4.p-md-5.pb-md-3
@@ -303,7 +303,7 @@
               //- estas clases tambien tienen un modificador --borde
               .tarjeta.bg-color-11
                 .p-4.text-center
-                  h4 Lean  Logistics
+                  h4 <em>Lean  Logistics</em>
                   p Filosofía que busca maximizar el valor para el cliente mediante la eliminación de desperdicios en la cadena de suministro. Permite optimizar rutas, reducir tiempos muertos, minimizar costos logísticos y mejorar la eficiencia de la operación.
 
           .col-lg-4
@@ -314,14 +314,14 @@
               //- estas clases tambien tienen un modificador --borde
               .tarjeta.bg-color-11
                 .p-4.text-center
-                  h4 Kaizen
+                  h4 <em>Kaizen</em>
                   p Filosofía de mejora continua basada en la participación de todo el equipo. Permite identificar problemas, proponer soluciones y ejecutar cambios constantes, optimizando rutas, consolidando cargas, mejorando la seguridad y fomentando la eficiencia operativa sostenible.
 
     img(data-aos="fade-up")(src="@/assets/curso/tema4/32.png", alt="Imagen decorativa")
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10
-        p.banner-text La mejora continua aplicada al transporte constituye una estrategia clave para garantizar operaciones ágiles, seguras y competitivas. A través del ciclo PHVA se logra estructurar el perfeccionamiento de los procesos, mientras que metodologías complementarias como Lean Logistics y Kaizen refuerzan la eficiencia al reducir desperdicios y promover la participación del talento humano. De esta manera, las organizaciones del sector transporte no solo optimizan recursos y cumplen con los estándares de calidad, sino que también fortalecen su capacidad de adaptación frente a los retos del entorno, generando valor sostenible para los clientes y para la cadena logística en su conjunto.
+        p.banner-text La mejora continua aplicada al transporte constituye una estrategia clave para garantizar operaciones ágiles, seguras y competitivas. A través del ciclo PHVA se logra estructurar el perfeccionamiento de los procesos, mientras que metodologías complementarias como <em>Lean Logistics</em> y <em>Kaizen</em> refuerzan la eficiencia al reducir desperdicios y promover la participación del talento humano. De esta manera, las organizaciones del sector transporte no solo optimizan recursos y cumplen con los estándares de calidad, sino que también fortalecen su capacidad de adaptación frente a los retos del entorno, generando valor sostenible para los clientes y para la cadena logística en su conjunto.
     
 
 </template>

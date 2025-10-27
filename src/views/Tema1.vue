@@ -117,7 +117,7 @@
               .bg-color-white.p-4.h-100.shadow-app
                 img(src='@/assets/curso/tema1/15.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                 h4.text-center.mb-4 Tecnología
-                p.text-center Uso de herramientas digitales como automatización, Big Data, inteligencia artificial y blockchain para optimizar procesos y decisiones.
+                p.text-center Uso de herramientas digitales como automatización, <em>big data</em>, inteligencia artificial y <em>blockchain</em> para optimizar procesos y decisiones.
     
           .col-lg-4.order-1.mb-3.mn-lg-0
             figure
@@ -197,7 +197,7 @@
                     img(src="@/assets/curso/tema1/19.svg")
                 .col-lg-10
                   h5 <em>Value Stream Mapping</em> (VSM)
-                  p.mb-0 Representa el flujo de materiales e información, mostrando tiempos, inventarios y desperdicios. Se usa en logística Lean para identificar ineficiencias y mejorar la cadena de valor del transporte.
+                  p.mb-0 Representa el flujo de materiales e información, mostrando tiempos, inventarios y desperdicios. Se usa en logística <em>Lean</em> para identificar ineficiencias y mejorar la cadena de valor del transporte.
               .row.align-items-center.justify-content-center
                 .col-6.col-md-4.col-lg-2.mb-3.mb-lg-0
                   figure
