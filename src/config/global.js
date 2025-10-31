@@ -254,7 +254,7 @@ export default {
     {
       termino: 'Calidad operativa',
       significado:
-        'Grado en que un proceso de transporte cumple con los requisitos establecidos, enfocado en satisfacción del cliente, reducción de errores y mejora continua.',
+        'Grado en que un proceso de transporte cumple con los requisitos establecidos, enfocado en la satisfacción del cliente, reducción de errores y mejora continua.',
     },
     {
       termino: 'Diagnóstico operativo',

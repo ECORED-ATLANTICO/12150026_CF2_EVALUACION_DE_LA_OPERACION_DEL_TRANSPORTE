@@ -22,7 +22,7 @@ export default {
       introduccion:
         '<b> Objetivo:</b> aplicar metodologías diagnósticas para analizar procesos operativos de transporte e identificar oportunidades de mejora.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
