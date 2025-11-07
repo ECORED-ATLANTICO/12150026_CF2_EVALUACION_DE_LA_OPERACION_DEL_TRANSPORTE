@@ -1,7 +1,6 @@
 export default {
   global: {
-    Name:
-      'Ejecución del plan diagnóstico de procesos operativos de transporte.',
+    Name: 'Ejecución del plan de procesos operativos de transporte.',
     Description:
       'Este componente formativo aborda fundamentos teóricos y prácticos de la ejecución de planes de diagnóstico en procesos operativos de transporte. Explora procesos operativos, normatividad, calidad y evaluación logística. Permite al aprendiz analizar, planificar y presentar informes técnicos que optimicen la operación y aseguren la mejora continua.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
